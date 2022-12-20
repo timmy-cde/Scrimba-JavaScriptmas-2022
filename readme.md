@@ -1,1 +1,1 @@
-#Scrimba JavaScriptmas 2022 Solutions#
+# Scrimba JavaScriptmas 2022 Solutions
